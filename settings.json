@@ -1,0 +1,58 @@
+{
+    "workbench.colorTheme": "Min Dark",
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [80, 120],
+    "workbench.startupEditor": "none",
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "workbench.activityBar.location": "hidden",
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "window.titleBarStyle": "custom",
+    "terminal.integrated.commandsToSkipShell": [
+      "-workbench.action.quickOpenView"
+    ],
+    "redhat.telemetry.enabled": true,
+    "explorer.confirmDelete": false,
+    "workbench.statusBar.visible": false,
+    "workbench.settings.applyToAllProfiles": [
+  
+    ],
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "window.zoomLevel": 0,
+    "explorer.confirmDragAndDrop": false,
+    "window.menuBarVisibility": "hidden",
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "cmake.showOptionsMovedNotification": false,
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.donotVerifyTags": true,
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "editor.renderWhitespace": "all",
+    "editor.codeLensFontFamily": "JetBrains Mono",
+    "editor.experimentalInlineEdit.fontFamily": "JetBrains Mono",
+    "editor.inlayHints.fontFamily": "JetBrains Mono",
+    "editor.inlineSuggest.fontFamily": "JetBrains Mono",
+    "debug.console.fontFamily": "JetBrains Mono",
+    "scm.inputFontFamily": "JetBrains Mono",
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "notebook.output.fontFamily": "JetBrains Mono",
+    "chat.editor.fontFamily": "JetBrains Mono",
+    "errorLens.fontFamily": "JetBrains Mono",
+    "C_Cpp.default.compilerPath": ""
+  }
